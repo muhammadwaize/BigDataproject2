@@ -182,6 +182,4 @@ The main dependencies listed in `requirements.txt` are:
 - youtube-comment-downloader — retrieving YouTube comments
 - yt-dlp — fallback YouTube search
 
-## License
 
-No license is specified in the provided project files. Add a `LICENSE` file if you intend to distribute the project publicly.
